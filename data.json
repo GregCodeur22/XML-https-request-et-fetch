@@ -1,0 +1,18 @@
+{
+    "sqlite.sqlite3": "C:\\Users\\grego\\OneDrive\\Bureau\\cour studi\\graphikart\\Sqlite\\manipulation-de-donn-es-SQLite\\sqlite3.exe",
+  
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.formatOnSave": true,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "liveServer.settings.donotVerifyTags": true
+  }
+  
